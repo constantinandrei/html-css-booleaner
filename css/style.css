@@ -1,3 +1,18 @@
-h1 {
-    color: red;
+
+header {
+    background-image: url('../img/pattern.png');
+    height: 200px;
+    background-color: rgb(74, 134, 194);
+    position: relative;
+}
+
+header img {
+    width: 20%;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+.article-title {
+    font-size: 40px;
 }
