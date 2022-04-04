@@ -7,6 +7,14 @@ header {
     position: relative;
 }
 
+figure {
+    margin-left: 0px;
+}
+
+ul {
+    padding-left: 18px;
+}
+
 header img {
     width: 20%;
     position: absolute;
@@ -52,6 +60,8 @@ th {
 
 .article-title {
     font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 0px;
 }
 
 .article-author {
