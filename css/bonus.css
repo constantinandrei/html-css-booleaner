@@ -1,4 +1,9 @@
-main {
+main, .logo-container {
     width: 80%;
     margin: auto;
+}
+
+.logo-container {
+    position: relative;
+    height: 100%;
 }
